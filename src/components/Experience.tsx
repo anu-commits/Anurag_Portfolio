@@ -7,9 +7,10 @@ const experiences = [
     location: 'Remote',
     period: 'December 2025 - Present',
     description: [
-      'Developing professional travel itinerary PDF generation system using Next.js 14 and TypeScript',
-      'Implementing pixel-perfect layouts with multi-page support and automatic content distribution',
-      'Building image upload functionality and real-time PDF preview with pdf-lib integration'
+        'Developed a premium travel booking platform using [Insert Stack, e.g., Next.js, TypeScript], designed to showcase curated luxury itineraries.',
+        'Implemented dynamic filtering and search functionality to allow users to sort destinations by price, amenities, and availability.',
+
+        'Integrated a headless CMS for real-time content management of tour packages.'
     ],
     current: true
   },
